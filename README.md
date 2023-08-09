@@ -1,17 +1,17 @@
-# Введение в нейронные сети
+# Introduction to Neural Networks
 
-Урок 1. Основы обучения нейронных сетей
+Урок 1. Neural Networks Basics
 
 Урок 2. Keras
 
 Урок 3. TensorFlow
 
-Урок 4. Сверточные нейронные сети
+Урок 4. Convolutional Neural Networks
 
-Урок 5. Рекуррентные нейронные сети
+Урок 5. Recurrent Neural Networks
 
-Урок 6. Сегментация
+Урок 6. Image Segmentation
 
-Урок 7. Детектирование объектов
+Урок 7. Object Detection
 
 Урок 8. GAN
